@@ -1,4 +1,4 @@
-Algoritmos e Lógica de Programação - O Curso COMPLETO.
+Algoritmos e Lógica de Programação - O Curso COMPLETO
 O curso definitivo de Lógica de Programação. Do VisualG às principais linguagens do mercado: C, C++, Python, C# e Java
 Criado por Nelio Alves
 
