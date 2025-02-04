@@ -1,9 +1,9 @@
-Link do Curso:
-https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/?couponCode=KEEPLEARNINGBR
-
 Algoritmos e Lógica de Programação - O Curso COMPLETO
 O curso definitivo de Lógica de Programação. Do VisualG às principais linguagens do mercado: C, C++, Python, C# e Java
 Criado por Nelio Alves
+
+Link do Curso:
+https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/?couponCode=KEEPLEARNINGBR
 
 O que você aprenderá
 - Variáveis, entrada, saída, processamento, estrutura sequencial, estrutura condicional, estruturas repetitivas, vetores e matrizes
